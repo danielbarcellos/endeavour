@@ -1,4 +1,4 @@
-# Endeavour Business Proccess Tool
+# Endeavour Business Process Tool
 This is a workflow tool and electronic formularies for business process management.
 
 Building...
